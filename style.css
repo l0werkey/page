@@ -155,4 +155,10 @@ a:focus-visible {
   .page > *:nth-child(8) { animation-delay: 0.56s; }
   .page > *:nth-child(9) { animation-delay: 0.62s; }
   .page > *:nth-child(10) { animation-delay: 0.68s; }
+  .page > *:nth-child(11) { animation-delay: 0.74s; }
+  .page > *:nth-child(12) { animation-delay: 0.8s; }
+  .page > *:nth-child(13) { animation-delay: 0.86s; }
+  .page > *:nth-child(14) { animation-delay: 0.92s; }
+  .page > *:nth-child(15) { animation-delay: 0.98s; }
+  .page > *:nth-child(16) { animation-delay: 1.04s; }
 }
